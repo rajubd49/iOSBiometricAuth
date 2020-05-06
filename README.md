@@ -18,4 +18,4 @@ rajubd49@gmail.com
 
 ## License
 
-PDFViewer is released under the MIT License. [See LICENSE](https://github.com/rajubd49/iOSBiometricAuth/blob/master/LICENSE) for details.
+iOSBiometricAuth is released under the MIT License. [See LICENSE](https://github.com/rajubd49/iOSBiometricAuth/blob/master/LICENSE) for details.
